@@ -1,4 +1,4 @@
-package Solution;
+package com.leetcode.solution;
 
 /**
  * @Author : fanc

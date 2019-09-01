@@ -1,4 +1,4 @@
-package Solution;
+package com.leetcode.solution;
 
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.ThreadPoolExecutor;

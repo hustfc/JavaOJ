@@ -1,4 +1,4 @@
-package Solution;
+package com.leetcode.solution;
 
 public class MyThead  extends Thread{
     private int count = 5;

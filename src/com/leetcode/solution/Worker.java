@@ -1,4 +1,4 @@
-package Solution;
+package com.leetcode.solution;
 
 public class Worker {
     private WorkerListner workerListner;

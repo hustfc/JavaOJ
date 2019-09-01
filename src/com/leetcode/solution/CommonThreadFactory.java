@@ -1,4 +1,4 @@
-package Solution;
+package com.leetcode.solution;
 
 import java.util.concurrent.ThreadFactory;
 import java.util.concurrent.atomic.AtomicInteger;
