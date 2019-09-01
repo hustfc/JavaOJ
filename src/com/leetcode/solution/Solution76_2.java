@@ -8,7 +8,6 @@ import java.util.*;
 /**
  * @Author : fanc
  * @Date : 2019-09-01 13:56
- * hello test
  */
 public class Solution76_2 {
     public String minWindow(String s, String t) {
