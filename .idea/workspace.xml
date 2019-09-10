@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef9b404-2fd9-4cb4-99e2-ecafe04d2b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution80.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOJ/com/leetcode/solution/Solution78.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaOJ/com/leetcode/solution/Solution78.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,15 +21,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/Solution77.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/Solution78.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="648">
@@ -42,15 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/Solution79.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="60" column="25" lean-forward="true" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
-              <folding>
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1392">
+              <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/Solution80.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -178,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/test/Test78.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/solution/Solution78.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/solution/Solution79.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/Solution80.java" />
       </list>
     </option>
   </component>
@@ -256,13 +252,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution79">
-    <configuration name="FunctionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.FunctionTest" />
+  <component name="RunManager" selected="Application.Solution80">
+    <configuration name="Solution79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution79" />
       <module name="JavaOJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="com.leetcode.solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,8 +266,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution79" />
+    <configuration name="Solution80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution80" />
       <module name="JavaOJ" />
       <extension name="coverage">
         <pattern>
@@ -324,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution80" />
         <item itemvalue="Application.Solution79" />
         <item itemvalue="Application.Test78" />
         <item itemvalue="Application.Test77" />
         <item itemvalue="Application.Test74" />
-        <item itemvalue="Application.FunctionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -355,16 +351,18 @@
       <workItem from="1567328926453" duration="7878000" />
       <workItem from="1567501003690" duration="6245000" />
       <workItem from="1567561905412" duration="1195000" />
+      <workItem from="1568107065627" duration="2150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40967000" />
+    <option name="totallyTimeSpent" value="43117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28667483" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2903423" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -373,15 +371,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18971062" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46945336" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25937834" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35262594" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.15005359" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28617364" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3290461" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.23043944" />
@@ -682,12 +680,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/Solution79.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="60" column="25" lean-forward="true" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
-          <folding>
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1392">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/Solution80.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
