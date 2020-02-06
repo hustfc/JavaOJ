@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef9b404-2fd9-4cb4-99e2-ecafe04d2b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution90_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,35 +73,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution86">
-    <configuration name="Solution80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution80" />
-      <module name="JavaOJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution81" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution81" />
-      <module name="JavaOJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution90_2">
     <configuration name="Solution86" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution86" />
+      <module name="JavaOJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution90" />
+      <module name="JavaOJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution90_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution90_2" />
       <module name="JavaOJ" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution90_2" />
+        <item itemvalue="Application.Solution90" />
         <item itemvalue="Application.Solution86" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ToStringTest" />
-        <item itemvalue="Application.Solution81" />
-        <item itemvalue="Application.Solution80" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +181,10 @@
       <workItem from="1573649768616" duration="15000" />
       <workItem from="1576591823743" duration="1825000" />
       <workItem from="1576760773670" duration="2000" />
-      <workItem from="1578062248401" duration="3893000" />
+      <workItem from="1578062248401" duration="4040000" />
+      <workItem from="1578107177512" duration="462000" />
+      <workItem from="1578397858929" duration="799000" />
+      <workItem from="1578831543373" duration="8808000" />
     </task>
     <servers />
   </component>
