@@ -4,7 +4,9 @@ import java.util.Arrays;
 
 public class QuickSort {
     public static void quickSort(int[] arrays, int start, int end) {
-        if (arrays.length == 0 || start >= end) return;
+        if (arrays.length == 0 || start >= end) {
+            return;
+        }
         int low = start, high = end;
         int pivot = arrays[low];
         while (low < high) {
