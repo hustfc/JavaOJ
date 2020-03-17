@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef9b404-2fd9-4cb4-99e2-ecafe04d2b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Aliyun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution94_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOJ/com/leetcode/solution/Solution92.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaOJ/com/leetcode/solution/Solution92.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOJ/com/leetcode/solution/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaOJ/com/leetcode/solution/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/solution/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,22 +74,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution93">
+  <component name="RunManager" selected="Application.Solution_Aliyun">
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.QuickSort" />
-      <module name="JavaOJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution91" />
       <module name="JavaOJ" />
       <extension name="coverage">
         <pattern>
@@ -126,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_Aliyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution_Aliyun" />
+      <module name="JavaOJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Test" />
       <module name="JavaOJ" />
@@ -140,19 +141,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution91" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.Solution92" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Solution93" />
+      <item itemvalue="Application.Solution_Aliyun" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_Aliyun" />
         <item itemvalue="Application.Solution93" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Solution92" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.Solution91" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +197,10 @@
       <workItem from="1583744897326" duration="3822000" />
       <workItem from="1583761152043" duration="524000" />
       <workItem from="1583810000866" duration="2485000" />
+      <workItem from="1583814455140" duration="134000" />
+      <workItem from="1584004907186" duration="2108000" />
+      <workItem from="1584167220022" duration="1097000" />
+      <workItem from="1584437058069" duration="2099000" />
     </task>
     <servers />
   </component>
