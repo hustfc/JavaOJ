@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef9b404-2fd9-4cb4-99e2-ecafe04d2b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution94_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution95.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution_Aliyun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution98.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOJ/com/leetcode/solution/Solution93.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaOJ/com/leetcode/solution/Solution93.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOJ/com/leetcode/solution/Aliyun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/solution/Solution_Aliyun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution_Aliyun.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -201,7 +199,9 @@
       <workItem from="1583814455140" duration="134000" />
       <workItem from="1584004907186" duration="2108000" />
       <workItem from="1584167220022" duration="1097000" />
-      <workItem from="1584437058069" duration="2346000" />
+      <workItem from="1584437058069" duration="2976000" />
+      <workItem from="1584586412418" duration="1854000" />
+      <workItem from="1585905953168" duration="1729000" />
     </task>
     <servers />
   </component>
