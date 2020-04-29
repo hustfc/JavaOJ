@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef9b404-2fd9-4cb4-99e2-ecafe04d2b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution127.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,9 +70,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution_Aliyun">
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.QuickSort" />
+  <component name="RunManager" selected="Application.Solution127">
+    <configuration name="Solution127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution127" />
       <module name="JavaOJ" />
       <extension name="coverage">
         <pattern>
@@ -137,19 +137,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.Solution92" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Solution93" />
       <item itemvalue="Application.Solution_Aliyun" />
+      <item itemvalue="Application.Solution127" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution127" />
         <item itemvalue="Application.Solution_Aliyun" />
         <item itemvalue="Application.Solution93" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Solution92" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,8 @@
       <workItem from="1587652342681" duration="2494000" />
       <workItem from="1587738047265" duration="3580000" />
       <workItem from="1587743015583" duration="106000" />
-      <workItem from="1587910103598" duration="5053000" />
+      <workItem from="1587910103598" duration="5140000" />
+      <workItem from="1588077949480" duration="3500000" />
     </task>
     <servers />
   </component>
