@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef9b404-2fd9-4cb4-99e2-ecafe04d2b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/MyLRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution147.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EqualTest">
+  <component name="RunManager" selected="Application.Solution147">
     <configuration name="EqualTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.EqualTest" />
       <module name="JavaOJ" />
@@ -111,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution93" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution93" />
+    <configuration name="Solution147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution147" />
       <module name="JavaOJ" />
       <extension name="coverage">
         <pattern>
@@ -138,19 +137,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution93" />
       <item itemvalue="Application.Solution_Aliyun" />
       <item itemvalue="Application.Solution127" />
       <item itemvalue="Application.Solution139" />
       <item itemvalue="Application.EqualTest" />
+      <item itemvalue="Application.Solution147" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution147" />
         <item itemvalue="Application.EqualTest" />
         <item itemvalue="Application.Solution139" />
         <item itemvalue="Application.Solution127" />
         <item itemvalue="Application.Solution_Aliyun" />
-        <item itemvalue="Application.Solution93" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +219,7 @@
       <workItem from="1588821137126" duration="2022000" />
       <workItem from="1588911492384" duration="1710000" />
       <workItem from="1588938275765" duration="3000" />
-      <workItem from="1588941929222" duration="4838000" />
+      <workItem from="1588941929222" duration="8488000" />
     </task>
     <servers />
   </component>
@@ -248,6 +247,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/Solution147.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>
