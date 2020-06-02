@@ -6,8 +6,8 @@ package com.leetcode.solution;
  */
 public class Test {
     public static void main(String[] args) {
-        String s = "456";
+        char s = '1';
 
-        System.out.println(Integer.valueOf(s));
+        System.out.println(s == '1');
     }
 }
