@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef9b404-2fd9-4cb4-99e2-ecafe04d2b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution209.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOJ/com/leetcode/solution/Solution207_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaOJ/com/leetcode/solution/Solution207_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/solution/Solution207_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution207_2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -228,7 +226,7 @@
       <workItem from="1590640758421" duration="223000" />
       <workItem from="1590986411676" duration="1347000" />
       <workItem from="1591103255972" duration="2746000" />
-      <workItem from="1591842406662" duration="16749000" />
+      <workItem from="1591842406662" duration="17726000" />
     </task>
     <servers />
   </component>
