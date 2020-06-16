@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef9b404-2fd9-4cb4-99e2-ecafe04d2b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution216.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution220.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution215">
+  <component name="RunManager" selected="Application.Solution216">
     <configuration name="Solution207" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution207" />
       <module name="JavaOJ" />
@@ -105,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Test" />
+    <configuration name="Solution216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution216" />
       <module name="JavaOJ" />
       <extension name="coverage">
         <pattern>
@@ -132,19 +133,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Solution207" />
       <item itemvalue="Application.Solution207_2" />
       <item itemvalue="Application.Trie" />
       <item itemvalue="Application.Solution215" />
+      <item itemvalue="Application.Solution216" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution216" />
         <item itemvalue="Application.Solution215" />
         <item itemvalue="Application.Trie" />
         <item itemvalue="Application.Solution207_2" />
         <item itemvalue="Application.Solution207" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +228,9 @@
       <workItem from="1590986411676" duration="1347000" />
       <workItem from="1591103255972" duration="2746000" />
       <workItem from="1591842406662" duration="18061000" />
-      <workItem from="1592122761560" duration="1239000" />
+      <workItem from="1592122761560" duration="1444000" />
+      <workItem from="1592229753388" duration="1855000" />
+      <workItem from="1592320206918" duration="1775000" />
     </task>
     <servers />
   </component>
