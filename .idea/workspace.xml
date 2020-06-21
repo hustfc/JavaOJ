@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef9b404-2fd9-4cb4-99e2-ecafe04d2b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution223.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/solution/Solution228.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,20 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution216">
-    <configuration name="Solution207" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution207" />
-      <module name="JavaOJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution228">
     <configuration name="Solution207_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution207_2" />
       <module name="JavaOJ" />
@@ -118,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution228" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Solution228" />
+      <module name="JavaOJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.solution.Trie" />
       <module name="JavaOJ" />
@@ -132,19 +132,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution207" />
       <item itemvalue="Application.Solution207_2" />
       <item itemvalue="Application.Trie" />
       <item itemvalue="Application.Solution215" />
       <item itemvalue="Application.Solution216" />
+      <item itemvalue="Application.Solution228" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution228" />
         <item itemvalue="Application.Solution216" />
         <item itemvalue="Application.Solution215" />
         <item itemvalue="Application.Trie" />
         <item itemvalue="Application.Solution207_2" />
-        <item itemvalue="Application.Solution207" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +232,8 @@
       <workItem from="1592320206918" duration="2521000" />
       <workItem from="1592395262090" duration="3300000" />
       <workItem from="1592557563426" duration="3953000" />
-      <workItem from="1592650679469" duration="1627000" />
+      <workItem from="1592650679469" duration="2358000" />
+      <workItem from="1592733333987" duration="1248000" />
     </task>
     <servers />
   </component>
