@@ -5,9 +5,12 @@ package com.leetcode.solution;
  * @Date : 2019-08-17 21:10
  */
 public class Test {
+    private static void helper(int k) {
+        k -= 100;
+    }
     public static void main(String[] args) {
-        char s = '1';
-
-        System.out.println(s == '1');
+        int k = 100;
+        helper(k);
+        System.out.println(k);
     }
 }
